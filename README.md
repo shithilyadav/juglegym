@@ -41,6 +41,44 @@ Windows:
 ```bash
 git clone https://github.com/shithilyadav/juglegym.git
 ```
+# ScreenShot of some Azure resouces
+Ai Language:
+![WhatsApp Image 2024-04-05 at 2 48 56 PM](https://github.com/shithilyadav/juglegym/assets/148605518/6c1d892d-24d3-4ffd-8756-2b47bd6f8ba5)
+Static Web App:
+![WhatsApp Image 2024-04-05 at 2 45 22 PM](https://github.com/shithilyadav/juglegym/assets/148605518/cfa1d996-653c-4184-8325-f737a2733f62)
+Storaze Account :
+![WhatsApp Image 2024-04-05 at 2 51 30 PM](https://github.com/shithilyadav/juglegym/assets/148605518/38bb71e1-5330-4f3f-95ea-83cb882401e2)
+
+
+
+Screenshots of the website after deploying :
+Default page:
+![desktop](https://github.com/shithilyadav/juglegym/assets/148605518/8585531e-dafd-432c-9d94-d157b4da3f75)
+
+About page : 
+
+![WhatsApp Image 2024-04-05 at 2 58 54 PM (1)](https://github.com/shithilyadav/juglegym/assets/148605518/5f67ac68-e072-45f5-bd0c-eb0350a4a100)
+
+
+Classes : 
+![WhatsApp Image 2024-04-05 at 2 59 34 PM (1)](https://github.com/shithilyadav/juglegym/assets/148605518/9e9d54bf-d02c-4e0e-8d91-5775c19a6876)
+
+
+Blog :
+![WhatsApp Image 2024-04-05 at 2 59 34 PM](https://github.com/shithilyadav/juglegym/assets/148605518/49055b2d-9eef-4927-bdf8-aad2c2e41a35)
+
+Contact us : 
+
+![WhatsApp Image 2024-04-05 at 2 59 34 PM (1)](https://github.com/shithilyadav/juglegym/assets/148605518/e08d48b6-0c6b-405c-9a63-8605cb40dc92)
+
+
+
+
+
+
+
+
+
 
 ### Contact
 
