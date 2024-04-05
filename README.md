@@ -16,8 +16,43 @@
 </div>
 
 <br />
-<h1>Problem Statement : </h1> <br>
-<h1>Project Description :</h1> <br>
+<h1>Problem Statement : </h1> 
+Lack of information:  Many people don't know where to start when it comes to fitness. A gym website can provide educational resources, such as workout routines, healthy recipes, and articles on different fitness topics.
+
+Ineffective workout routines: People who don't have a good understanding of fitness may create workout routines that are not effective for their goals. A gym website can offer personalized workout plans or guidance on how to create a safe and effective workout routine.
+
+Difficulty tracking progress: It can be difficult to stay motivated if you don't see results. A gym website can offer fitness trackers that allow people to track their workouts, weight loss, and other fitness goals.
+
+Decreased motivation: Working out can be tough, and it's easy to get discouraged. A gym website can provide motivational content, such as success stories from other members, to help people stay on track.
+<br>
+<h1>Project Description : </h1> 
+High-quality visuals showcasing the gym's facilities, classes, and atmosphere.
+Clear value proposition highlighting the gym's unique offerings and benefits.
+Easy access to membership options and pricing.
+Class Schedule & Booking:
+Comprehensive overview of all fitness classes offered, including descriptions, instructors, and difficulty levels.
+Real-time class schedule with online booking functionality.
+Integration with member accounts for managing bookings and tracking attendance.
+Personalized Training:
+Dedicated section showcasing the gym's trainers and their expertise.
+Option to schedule consultations or book individual training sessions online.
+Feature success stories and testimonials from satisfied clients who worked with trainers.
+Fitness Resources:
+Library of workout routines categorized by fitness goals and experience levels.
+Informational articles on various fitness topics like nutrition, exercise techniques, and injury prevention.
+Integration with wearable devices and fitness trackers for data syncing and progress monitoring.
+Community Engagement:
+Interactive member forum for discussions, goal setting, and peer support.
+Integration with social media platforms to share achievements and promote the gym.
+Feature member of the month spotlights to inspire and motivate others.
+Benefits:
+
+Increased brand awareness and lead generation.
+Improved member acquisition and retention.
+Enhanced member experience and satisfaction.
+Streamlined communication and booking processes.
+Stronger sense of community and motivation
+<br>
 <h1>Industry Type : </h1> 
 health <br>
 <h1> core azure Services :</h1>
@@ -32,7 +67,7 @@ health <br>
 3.JavaScript
 
 <h1>Working Links of Project :</h1>
-Web Application hosted on Azure : <br>
+Web Application hosted on Azure : https://mango-flower-015ad7e0f.5.azurestaticapps.net <br>
 Github Repository : https://github.com/shithilyadav/juglegym/tree/master <br>
 Code : https://github.com/shithilyadav/juglegym/tree/master <br>
 Documentation : 
