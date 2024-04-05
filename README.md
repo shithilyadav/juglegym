@@ -1,19 +1,4 @@
-<h1> Project Title :</h1>
-<div align="center">
-  
-  
-  [![YouTube Video Views](https://img.shields.io/youtube/views/dmif_yP7cZw?style=social)](https://youtu.be/dmif_yP7cZw)
-  <br />
-  <h1> Project Title :</h1>
-  <br />
-
-  <h2 align="center">JUNGLEGYM - Website</h2>
-
-  IS BETTER WAY TO FIT YOUR BODY, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://shithilyadav.github.io/juglegym/"><strong>➥ Live Demo</strong></a>
-
-</div>
+<h1> Project Title : gym website </h1>
 
 <br />
 <h1>Problem Statement : </h1> 
@@ -72,7 +57,8 @@ Github Repository : https://github.com/shithilyadav/juglegym/tree/master <br>
 Code : https://github.com/shithilyadav/juglegym/tree/master <br>
 Documentation : 
   
-### Demo Screeshots
+### Demo Screeshots :   <a href="https://shithilyadav.github.io/juglegym/"><strong>➥ Live Demo</strong></a>
+
 
 ![desktop](https://github.com/shithilyadav/juglegym/assets/148605518/8585531e-dafd-432c-9d94-d157b4da3f75)
 
