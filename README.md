@@ -1,5 +1,5 @@
 <h1> Project Title : </h1>
-<h2>  gym website </h2>
+ gym website 
 
 <br />
 <h1>Problem Statement : </h1> 
