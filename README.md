@@ -59,9 +59,10 @@ Code : https://github.com/shithilyadav/juglegym/tree/master <br>
 Documentation : 
   
 ### Demo Screeshots :   <a href="https://shithilyadav.github.io/juglegym/"><strong>➥ Live Demo</strong></a>
+if you need any help  click on help button
 
 
-![desktop](https://github.com/shithilyadav/juglegym/assets/148605518/8585531e-dafd-432c-9d94-d157b4da3f75)
+![image](https://github.com/shithilyadav/juglegym/assets/148605518/d5e2d20e-8865-4aff-8888-3f79de185d41)
 
 
 ### Prerequisites
