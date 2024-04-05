@@ -59,7 +59,7 @@ Code : https://github.com/shithilyadav/juglegym/tree/master <br>
 Documentation : 
   
 ### Demo Screeshots :   <a href="https://shithilyadav.github.io/juglegym/"><strong>➥ Live Demo</strong></a>
-if you need any help  click on help button
+if you need any help  click on help button azure ai chat bot is available to solve your problem
 
 
 ![image](https://github.com/shithilyadav/juglegym/assets/148605518/d5e2d20e-8865-4aff-8888-3f79de185d41)
