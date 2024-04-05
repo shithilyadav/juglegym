@@ -88,7 +88,7 @@ git clone https://github.com/shithilyadav/juglegym.git
 # ScreenShot of some Azure resouces
 Ai Language:
 ![WhatsApp Image 2024-04-05 at 2 48 56 PM](https://github.com/shithilyadav/juglegym/assets/148605518/6c1d892d-24d3-4ffd-8756-2b47bd6f8ba5)
-Chat Bot :
+Chat Bot : <br>
 ![WhatsApp Image 2024-04-05 at 4 50 29 PM](https://github.com/shithilyadav/juglegym/assets/148605518/a93762e8-6552-4ada-b801-9a1363c50d00)
 
 Static Web App:
