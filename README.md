@@ -56,7 +56,7 @@ health <br>
 Web Application hosted on Azure : https://mango-flower-015ad7e0f.5.azurestaticapps.net <br>
 Github Repository : https://github.com/shithilyadav/juglegym/tree/master <br>
 Code : https://github.com/shithilyadav/juglegym/tree/master <br>
-Documentation : https://docs.google.com/document/d/1gPVYtV_DE1dgLA5aRJWhC81MVJal681s/edit?usp=drive_link&ouid=112757825841309833200&rtpof=true&sd=true
+Documentation : https://docs.google.com/document/d/1gPVYtV_DE1dgLA5aRJWhC81MVJal681s/edit?usp=drive_link&ouid=112757825841309833200&rtpof=true&sd=true <br>
 ### Demo Screeshots :   <a href="https://shithilyadav.github.io/juglegym/"><strong>➥ Live Demo</strong></a>
 if you need any help  click on help button azure ai chat bot is available to solve your problem
 
