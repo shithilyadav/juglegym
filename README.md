@@ -67,9 +67,6 @@ Classes :
 Blog :
 ![WhatsApp Image 2024-04-05 at 2 59 34 PM](https://github.com/shithilyadav/juglegym/assets/148605518/49055b2d-9eef-4927-bdf8-aad2c2e41a35)
 
-Contact us : 
-
-![WhatsApp Image 2024-04-05 at 2 59 34 PM (1)](https://github.com/shithilyadav/juglegym/assets/148605518/e08d48b6-0c6b-405c-9a63-8605cb40dc92)
 
 
 
