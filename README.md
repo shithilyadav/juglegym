@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://github.com/shithilyadav/juglegym.git)
+  
   [![YouTube Video Views](https://img.shields.io/youtube/views/dmif_yP7cZw?style=social)](https://youtu.be/dmif_yP7cZw)
   <br />
   <br />
