@@ -15,6 +15,10 @@
 </div>
 
 <br />
+<h1>Problem Statement : </h1> <br>
+<h1>Project Description :</h1> <br>
+<h1>Industry Type : </h1> 
+health <br>
 <h1> core azure Services :</h1>
 1.azure static web app service <br>
 2. storage account
