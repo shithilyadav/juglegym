@@ -61,11 +61,17 @@ About page :
 
 
 Classes : 
-![WhatsApp Image 2024-04-05 at 2 59 34 PM (1)](https://github.com/shithilyadav/juglegym/assets/148605518/9e9d54bf-d02c-4e0e-8d91-5775c19a6876)
+
+![WhatsApp Image 2024-04-05 at 3 01 17 PM](https://github.com/shithilyadav/juglegym/assets/148605518/05f03195-aaf2-464d-b773-49cfc6a10751)
+
 
 
 Blog :
 ![WhatsApp Image 2024-04-05 at 2 59 34 PM](https://github.com/shithilyadav/juglegym/assets/148605518/49055b2d-9eef-4927-bdf8-aad2c2e41a35)
+Contact :
+
+![WhatsApp Image 2024-04-05 at 3 03 15 PM (1)](https://github.com/shithilyadav/juglegym/assets/148605518/6ca9f0db-fb9c-4361-8b06-7ce9d232bb90)
+
 
 
 
