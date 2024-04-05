@@ -17,7 +17,8 @@
 
 ### Demo Screeshots
 
-![junglegym Desktop Demo](.readme-images/desktop.png "Desktop Demo")
+![desktop](https://github.com/shithilyadav/juglegym/assets/148605518/8585531e-dafd-432c-9d94-d157b4da3f75)
+
 
 ### Prerequisites
 
