@@ -97,7 +97,7 @@ Storaze Account :
 
 Screenshots of the website after deploying :
 Default page:
-![desktop](https://github.com/shithilyadav/juglegym/assets/148605518/8585531e-dafd-432c-9d94-d157b4da3f75)
+![image](https://github.com/shithilyadav/juglegym/assets/148605518/d5e2d20e-8865-4aff-8888-3f79de185d41)
 
 About page : 
 
