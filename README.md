@@ -26,9 +26,9 @@
 3.JavaScript
 
 <h1>Working Links of Project :</h1>
-Web Application hosted on Azure : 
-Github Repository : https://github.com/shithilyadav/juglegym/tree/master
-Code : https://github.com/shithilyadav/juglegym/tree/master
+Web Application hosted on Azure : <br>
+Github Repository : https://github.com/shithilyadav/juglegym/tree/master <br>
+Code : https://github.com/shithilyadav/juglegym/tree/master <br>
 Documentation : 
   
 ### Demo Screeshots
