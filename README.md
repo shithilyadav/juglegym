@@ -15,7 +15,17 @@
 
 <br />
 <h1> core azure Services :</h1>
+1.azure static web app service
+2. storage account
+<h1>Azure Ai Services:</h1>
+1.AI language
+<h1>Web Technology Used</h1>
+1.HTML
+2.CSS
+3.JavaScript
 
+
+  
 ### Demo Screeshots
 
 ![desktop](https://github.com/shithilyadav/juglegym/assets/148605518/8585531e-dafd-432c-9d94-d157b4da3f75)
