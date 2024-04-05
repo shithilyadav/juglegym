@@ -15,13 +15,13 @@
 
 <br />
 <h1> core azure Services :</h1>
-1.azure static web app service
+1.azure static web app service <br>
 2. storage account
 <h1>Azure Ai Services:</h1>
-1.AI language
+1.AI language <br>
 <h1>Web Technology Used</h1>
-1.HTML
-2.CSS
+1.HTML <br>
+2.CSS<br>
 3.JavaScript
 
 
