@@ -19,12 +19,17 @@
 2. storage account
 <h1>Azure Ai Services:</h1>
 1.AI language <br>
+2. Ai Chat Bot
 <h1>Web Technology Used</h1>
 1.HTML <br>
 2.CSS<br>
 3.JavaScript
 
-
+<h1>Working Links of Project :</h1>
+Web Application hosted on Azure : 
+Github Repository : https://github.com/shithilyadav/juglegym/tree/master
+Code : https://github.com/shithilyadav/juglegym/tree/master
+Documentation : 
   
 ### Demo Screeshots
 
